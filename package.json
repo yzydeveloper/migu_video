@@ -1,6 +1,9 @@
 {
   "name": "migu_video",
   "type": "module",
+  "scripts": {
+      "dev": "pm2 start app.js"
+  },
   "dependencies": {
     "pm2": "5.4.3"
   }
