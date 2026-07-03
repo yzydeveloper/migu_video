@@ -1,4 +1,7 @@
 {
   "name": "migu_video",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "pm2": "5.4.3"
+  }
 }
